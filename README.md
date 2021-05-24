@@ -1,2 +1,2 @@
-# website
-Programmming practice
+# Arielka
+Website template
